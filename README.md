@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 MCA (Pursuing) at G H Raisoni College of Engineering and Management, Nagpur  
+- 🎓 MCA Completed from G H Raisoni College of Engineering and Management, Nagpur  
 - 💼 Web Developer with hands-on experience in responsive web applications  
 - 🌱 Continuously learning modern web technologies  
 - 🎯 Aspiring to contribute to results-driven organizations  
@@ -28,18 +28,20 @@
 - Flowbite  
 
 ### ⚙️ Backend
+- Express.js
 - Node.js  
 - Django  
 
-### 💡 Programming Languages
-- C#.NET  
-- Python  
+### 💡 Programming Languages  
+- Python
+- C#.NET 
 - Java  
 
 ### 🗄️ Databases
-- MySQL  
+- MySQL
+- MongoDB
 - Oracle  
-- SQL Server  
+  
 
 ### 🧰 Tools & Servers
 - XAMPP Server  
@@ -50,8 +52,14 @@
 
 
 ## 💼 Professional Experience
+**Technical Trainer & Assistant Professor @Parul University**
+*jul 2025 - Dec 2025*
+
+- Delivered instructions and Conducted hands-on coding labs and technical training sessions
+- Mentored students for problem-solving, projects, and placements Designed assignments, assessments, and learning material.
+  
 **Web Developer | Nagpur, India**  
-*Jul 2024 – Oct 2024*
+*Jul 2024 – Jan 2025*
 
 - Built responsive web applications using HTML, CSS, JavaScript, React.js, and Bootstrap  
 - Improved UI/UX and optimized performance  
