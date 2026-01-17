@@ -52,13 +52,13 @@
 
 
 ## 💼 Professional Experience
-**Technical Trainer & Assistant Professor @Parul University**
+**Technical Trainer & Assistant Professor @Parul University | Gujarat, India**<br>
 *jul 2025 - Dec 2025*
 
 - Delivered instructions and Conducted hands-on coding labs and technical training sessions
 - Mentored students for problem-solving, projects, and placements Designed assignments, assessments, and learning material.
   
-**Web Developer | Nagpur, India**  
+**Web Developer | Maharashtra, India**<br>
 *Jul 2024 – Jan 2025*
 
 - Built responsive web applications using HTML, CSS, JavaScript, React.js, and Bootstrap  
