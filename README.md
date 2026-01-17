@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Mansi Manoj Pujari
 
 ## 💻 MCA Web Developer  
-Turning skills into results | Learning modern web technologies
+### Turning skills into results | Learning modern web technologies
+---
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTYyeWx1b3E2NmdsbDQ3dnB6ZDVranNwYXkwa24zaHo0Z3ZkeTh6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif)
 
 ---
 
@@ -44,14 +46,8 @@ Turning skills into results | Learning modern web technologies
 
 ---
 
-## 📊 GitHub Stats
-> Replace `yourusername` with your GitHub username
-[](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTYyeWx1b3E2NmdsbDQ3dnB6ZDVranNwYXkwa24zaHo0Z3ZkeTh6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mansipujari20&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansipujari20&layout=compact)
 
----
 
 ## 💼 Professional Experience
 **Web Developer | Nagpur, India**  
