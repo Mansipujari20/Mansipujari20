@@ -14,6 +14,26 @@
 - 🎯 Aspiring to contribute to results-driven organizations  
 
 ---
+## 📊 GitHub Stats  
+
+<br/>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=
+Mansipujari20&theme=midnight-purple&hide_border=true&border_radius=1" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=
+Mansipujari20&layout=compact&theme=midnight-purple&hide_border=true" />
+  </a>
+</div>
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=Mansipujari20)
+<br>
+---
 
 ## 🛠️ Tech Stack
 
@@ -40,7 +60,8 @@
 ### 🗄️ Databases
 - MySQL
 - MongoDB
-- Oracle  
+- Oracle
+- PhpAdmin 
   
 
 ### 🧰 Tools & Servers
